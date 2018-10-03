@@ -1,0 +1,12 @@
+{
+  "name": "thehubtest",
+  "version": "0.0.1",
+  "description": "the for the hub database",
+  "main": "index.js",
+  "author": "mox",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "hubdb": "^1.1.2"
+  }
+}
